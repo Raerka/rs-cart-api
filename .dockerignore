@@ -1,0 +1,10 @@
+# .node_modules
+.node_modules
+# .git and .cache folders
+.git
+.cache
+# config files
+.test
+.eslint*
+.prettier*
+.README.md
